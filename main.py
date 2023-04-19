@@ -1,4 +1,4 @@
 def HW():
-    print('Hello world')
+    print('Hello Linux')
 
 HW()
